@@ -144,6 +144,17 @@ img.add_border {
         </header>
     <div id="tipue_search_content">Brython << <a href='Brython.html'>Previous</a> <br /><h1>杜林理工翻譯文章</h1>
 <p><a href="https://nfuedu-my.sharepoint.com/:w:/g/personal/41123214_nfu_edu_tw/EQSFpSX46uBPhzR_EHHdXCsBibajbcdpkRX-mfgk5F6uNw?e=5HQryL">文章連結</a></p>
+<p>翻譯程式</p>
+<p>#include &lt;iostream&gt;<br/>#include &lt;map&gt;<br/>#include &lt;string&gt;<br/>#include &lt;sstream&gt;<br/>#include &lt;vector&gt;</p>
+<p>using namespace std;</p>
+<p>// 定義英文到中文的映射<br/>map&lt;string, string&gt; englishToChinese = {<br/> {"hello", "你好"},<br/> {"world", "世界"},<br/> {"programming", "編程"},<br/> {"language", "語言"},<br/> // 添加更多映射<br/>};</p>
+<p>// 函數: 翻譯英文句子為中文<br/>string translateToChinese(const string&amp; sentence) {<br/> stringstream ss(sentence);<br/> string word;<br/> vector&lt;string&gt; translatedWords;</p>
+<p>while (ss &gt;&gt; word) {<br/> // 尋找該單詞在映射中的翻譯，如果找不到，則保留原單詞<br/> auto it = englishToChinese.find(word);<br/> if (it != englishToChinese.end()) {<br/> translatedWords.push_back(it-&gt;second);<br/> } else {<br/> translatedWords.push_back(word);<br/> }<br/> }</p>
+<p>// 將翻譯後的單詞組合成句子<br/> string translatedSentence;<br/> for (const string&amp; word : translatedWords) {<br/> translatedSentence += word + " ";<br/> }</p>
+<p>return translatedSentence;<br/>}</p>
+<p>int main() {<br/> // 輸入英文句子<br/> string englishSentence;<br/> cout &lt;&lt; "Enter an English sentence: ";<br/> getline(cin, englishSentence);</p>
+<p>// 翻譯並輸出結果<br/> string translatedSentence = translateToChinese(englishSentence);<br/> cout &lt;&lt; "Translated sentence: " &lt;&lt; translatedSentence &lt;&lt; endl;</p>
+<p>return 0;<br/>}</p>
 <!-- editor2 結束 --><hr/>
 <p>
 <script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"></script>
