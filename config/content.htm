@@ -324,7 +324,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p><!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --></p>
 <h1>杜林理工翻譯文章</h1>
 <p><a href="https://nfuedu-my.sharepoint.com/:w:/g/personal/41123214_nfu_edu_tw/EQSFpSX46uBPhzR_EHHdXCsBibajbcdpkRX-mfgk5F6uNw?e=5HQryL">文章連結</a></p>
-<h2><span>LaTeX</span></h2>
+<h2>LaTeX</h2>
 <p>\documentclass{article}<br/>\usepackage[utf8]{inputenc}</p>
 <p>% 定义英文到中文的映射<br/>\def\englishToChinese{<br/> {"hello", "你好"},<br/> {"world", "世界"},<br/> {"programming", "编程"},<br/> {"language", "语言"},<br/> % 添加更多映射<br/>}</p>
 <p>% 定义翻译函数<br/>\newcommand{\translateToChinese}[1]{<br/> \foreach \word/\translation in \englishToChinese {<br/> \ifx\word#1<br/> \translation<br/> \break<br/> \fi<br/> }<br/> #1<br/>}</p>
@@ -343,6 +343,16 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p>int main() {<br/> // 輸入英文句子<br/> string englishSentence;<br/> cout &lt;&lt; "Enter an English sentence: ";<br/> getline(cin, englishSentence);</p>
 <p>// 翻譯並輸出結果<br/> string translatedSentence = translateToChinese(englishSentence);<br/> cout &lt;&lt; "Translated sentence: " &lt;&lt; translatedSentence &lt;&lt; endl;</p>
 <p>return 0;<br/>}</p>
+<h1>分工表+組員名單</h1>
+<p>翻譯頁數</p>
+<p>41123210 呂宗祐 1~10 </p>
+<p>41123214 林辰祐 21~30</p>
+<p>41123224 張書維 11~21</p>
+<p>41123231 陳彥翰 41~50</p>
+<p>41123235 黃韋翰 51~60</p>
+<p>41123239 楊舜翔 61~70</p>
+<p>41123240 詹子逵 31~40/81~87</p>
+<p>41132222 林育安 71~80</p>
 <!-- editor2 結束 --><hr/>
 <p>
 <script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"></script>
