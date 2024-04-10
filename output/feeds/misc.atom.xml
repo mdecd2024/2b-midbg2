@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2b - misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2024-04-09T12:17:28+08:00</updated><entry><title>About</title><link href="./about.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./about.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2b - misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2024-04-10T08:35:02+08:00</updated><entry><title>About</title><link href="./about.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./about.html</id><content type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -82,7 +82,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles by 41123214</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-by-41123214.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-articles-by-41123214.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles by 41123214</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-by-41123214.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-articles-by-41123214.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -318,7 +318,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles by kmol</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-by-kmol.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-articles-by-kmol.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles by kmol</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-by-kmol.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-articles-by-kmol.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -527,7 +527,215 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w1 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w1-category.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w1-category.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w6 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w6-category.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w6-category.html</id><summary type="html">
+
+&lt;nav id="menu"&gt;
+  &lt;a class="close-button"&gt;Close&lt;/a&gt;
+  &lt;div class="nav-wrapper"&gt;
+    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;!--
+
+              &lt;li role="presentation"&gt;&lt;a href="../pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
+      --&gt;
+
+            &lt;li&gt;&lt;a href="../pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="../archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="../categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="../tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+    &lt;!-- Page Header --&gt;
+    &lt;!-- Set your background image for this header on the line below. --&gt;
+    &lt;header id="blog-header" class="has-cover"&gt;
+      &lt;div class="inner"&gt;
+        &lt;nav id="navigation"&gt;
+            &lt;span id="home-button" class="nav-button"&gt;
+                &lt;a class="home-button" href="../" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
+            &lt;/span&gt;
+          &lt;span id="menu-button" class="nav-button"&gt;
+            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/nav&gt;
+        &lt;h1 class="post-title"&gt;Category w6&lt;/h1&gt;
+        &lt;span class="blog-description"&gt;Posts: 1&lt;/span&gt;
+            &lt;div class="post-cover cover" style="background-image: url('../theme/images/post-bg.jpg')"&gt;
+      &lt;/div&gt;
+    &lt;/header&gt;
+
+  &lt;section id="wrapper"&gt;
+    &lt;a class="hidden-close"&gt;&lt;/a&gt;
+
+&lt;section class="search"&gt;
+      &lt;form class="navbar-search" action="../search.html"&gt;
+      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
+    &lt;/form&gt;
+&lt;/section&gt;
+
+
+&lt;div id="index" class="container"&gt;
+  &lt;main class="content" role="main"&gt;
+    &lt;div class="extra-pagination"&gt;
+&lt;nav class="pagination" role="pagination"&gt;
+  &lt;div class="inner"&gt;
+    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
+    &lt;div class="clear"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+    &lt;/div&gt;
+
+        &lt;article class="post"&gt;
+        &lt;div class="inner"&gt;
+            &lt;header class="post-header"&gt;         
+                &lt;h2 class="post-title"&gt;&lt;a href="../w6.html" rel="bookmark" title="Permalink to 2024/03/28"&gt;2024/03/28&lt;/a&gt;
+                &lt;/h2&gt;
+                &lt;span class="post-meta"&gt;
+                        &lt;a href="../author/41123214.html"&gt;41123214&lt;/a&gt;
+                     | &lt;time datetime="Thu 14 March 2024"&gt;Thu 14 March 2024&lt;/time&gt;
+                &lt;/span&gt;
+                &lt;div class="clear"&gt;&lt;/div&gt;
+            &lt;/header&gt;
+                &lt;section class="post-excerpt"&gt;
+                    &lt;p&gt;
+                        &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+                    &lt;/p&gt;
+                &lt;/section&gt;
+            &lt;/div&gt;
+        &lt;/article&gt;
+
+&lt;nav class="pagination" role="pagination"&gt;
+  &lt;div class="inner"&gt;
+    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
+    &lt;div class="clear"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+  &lt;/main&gt;
+&lt;/div&gt;
+      &lt;!-- TODO : Body class --&gt;
+    &lt;div id="body-class" style="display: none;" class=""&gt;&lt;/div&gt;
+
+    &lt;footer id="footer"&gt;
+      &lt;div class="inner"&gt;
+        &lt;section class="credits"&gt;
+
+
+          &lt;span class="credits-theme"&gt;Theme …&lt;/span&gt;&lt;/section&gt;&lt;/div&gt;&lt;/footer&gt;&lt;/section&gt;</summary><content type="html">
+
+&lt;nav id="menu"&gt;
+  &lt;a class="close-button"&gt;Close&lt;/a&gt;
+  &lt;div class="nav-wrapper"&gt;
+    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;!--
+
+              &lt;li role="presentation"&gt;&lt;a href="../pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
+      --&gt;
+
+            &lt;li&gt;&lt;a href="../pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="../archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="../categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="../tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+    &lt;!-- Page Header --&gt;
+    &lt;!-- Set your background image for this header on the line below. --&gt;
+    &lt;header id="blog-header" class="has-cover"&gt;
+      &lt;div class="inner"&gt;
+        &lt;nav id="navigation"&gt;
+            &lt;span id="home-button" class="nav-button"&gt;
+                &lt;a class="home-button" href="../" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
+            &lt;/span&gt;
+          &lt;span id="menu-button" class="nav-button"&gt;
+            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/nav&gt;
+        &lt;h1 class="post-title"&gt;Category w6&lt;/h1&gt;
+        &lt;span class="blog-description"&gt;Posts: 1&lt;/span&gt;
+            &lt;div class="post-cover cover" style="background-image: url('../theme/images/post-bg.jpg')"&gt;
+      &lt;/div&gt;
+    &lt;/header&gt;
+
+  &lt;section id="wrapper"&gt;
+    &lt;a class="hidden-close"&gt;&lt;/a&gt;
+
+&lt;section class="search"&gt;
+      &lt;form class="navbar-search" action="../search.html"&gt;
+      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
+    &lt;/form&gt;
+&lt;/section&gt;
+
+
+&lt;div id="index" class="container"&gt;
+  &lt;main class="content" role="main"&gt;
+    &lt;div class="extra-pagination"&gt;
+&lt;nav class="pagination" role="pagination"&gt;
+  &lt;div class="inner"&gt;
+    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
+    &lt;div class="clear"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+    &lt;/div&gt;
+
+        &lt;article class="post"&gt;
+        &lt;div class="inner"&gt;
+            &lt;header class="post-header"&gt;         
+                &lt;h2 class="post-title"&gt;&lt;a href="../w6.html" rel="bookmark" title="Permalink to 2024/03/28"&gt;2024/03/28&lt;/a&gt;
+                &lt;/h2&gt;
+                &lt;span class="post-meta"&gt;
+                        &lt;a href="../author/41123214.html"&gt;41123214&lt;/a&gt;
+                     | &lt;time datetime="Thu 14 March 2024"&gt;Thu 14 March 2024&lt;/time&gt;
+                &lt;/span&gt;
+                &lt;div class="clear"&gt;&lt;/div&gt;
+            &lt;/header&gt;
+                &lt;section class="post-excerpt"&gt;
+                    &lt;p&gt;
+                        &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+                    &lt;/p&gt;
+                &lt;/section&gt;
+            &lt;/div&gt;
+        &lt;/article&gt;
+
+&lt;nav class="pagination" role="pagination"&gt;
+  &lt;div class="inner"&gt;
+    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
+    &lt;div class="clear"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+  &lt;/main&gt;
+&lt;/div&gt;
+      &lt;!-- TODO : Body class --&gt;
+    &lt;div id="body-class" style="display: none;" class=""&gt;&lt;/div&gt;
+
+    &lt;footer id="footer"&gt;
+      &lt;div class="inner"&gt;
+        &lt;section class="credits"&gt;
+
+
+          &lt;span class="credits-theme"&gt;Theme &lt;a href="https://github.com/arulrajnet/attila" rel="nofollow"&gt;Attila&lt;/a&gt;&lt;/span&gt;
+          &lt;span class="credits-software"&gt;Published with &lt;a href="https://github.com/getpelican/pelican" rel="nofollow"&gt;Pelican&lt;/a&gt;&lt;/span&gt;
+        &lt;/section&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+  &lt;/section&gt;
+  
+  &lt;script type="text/javascript" src="../theme/js/script.js"&gt;&lt;/script&gt;
+
+ 
+
+
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w1 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w1-category.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w1-category.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -721,7 +929,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w4 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w4-category.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w4-category.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w4 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w4-category.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w4-category.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -929,7 +1137,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w5 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w5-category.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w5-category.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w5 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w5-category.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w5-category.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -1137,215 +1345,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Articles in the w6 category</title><link href="./41123214xie-tong-chan-pin-she-ji-articles-in-the-w6-category.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-articles-in-the-w6-category.html</id><summary type="html">
-
-&lt;nav id="menu"&gt;
-  &lt;a class="close-button"&gt;Close&lt;/a&gt;
-  &lt;div class="nav-wrapper"&gt;
-    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;!--
-
-              &lt;li role="presentation"&gt;&lt;a href="../pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
-      --&gt;
-
-            &lt;li&gt;&lt;a href="../pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="../archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="../categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="../tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-    &lt;!-- Page Header --&gt;
-    &lt;!-- Set your background image for this header on the line below. --&gt;
-    &lt;header id="blog-header" class="has-cover"&gt;
-      &lt;div class="inner"&gt;
-        &lt;nav id="navigation"&gt;
-            &lt;span id="home-button" class="nav-button"&gt;
-                &lt;a class="home-button" href="../" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
-            &lt;/span&gt;
-          &lt;span id="menu-button" class="nav-button"&gt;
-            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
-          &lt;/span&gt;
-        &lt;/nav&gt;
-        &lt;h1 class="post-title"&gt;Category w6&lt;/h1&gt;
-        &lt;span class="blog-description"&gt;Posts: 1&lt;/span&gt;
-            &lt;div class="post-cover cover" style="background-image: url('../theme/images/post-bg.jpg')"&gt;
-      &lt;/div&gt;
-    &lt;/header&gt;
-
-  &lt;section id="wrapper"&gt;
-    &lt;a class="hidden-close"&gt;&lt;/a&gt;
-
-&lt;section class="search"&gt;
-      &lt;form class="navbar-search" action="../search.html"&gt;
-      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
-    &lt;/form&gt;
-&lt;/section&gt;
-
-
-&lt;div id="index" class="container"&gt;
-  &lt;main class="content" role="main"&gt;
-    &lt;div class="extra-pagination"&gt;
-&lt;nav class="pagination" role="pagination"&gt;
-  &lt;div class="inner"&gt;
-    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
-    &lt;div class="clear"&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-    &lt;/div&gt;
-
-        &lt;article class="post"&gt;
-        &lt;div class="inner"&gt;
-            &lt;header class="post-header"&gt;         
-                &lt;h2 class="post-title"&gt;&lt;a href="../w6.html" rel="bookmark" title="Permalink to 2024/03/28"&gt;2024/03/28&lt;/a&gt;
-                &lt;/h2&gt;
-                &lt;span class="post-meta"&gt;
-                        &lt;a href="../author/41123214.html"&gt;41123214&lt;/a&gt;
-                     | &lt;time datetime="Thu 14 March 2024"&gt;Thu 14 March 2024&lt;/time&gt;
-                &lt;/span&gt;
-                &lt;div class="clear"&gt;&lt;/div&gt;
-            &lt;/header&gt;
-                &lt;section class="post-excerpt"&gt;
-                    &lt;p&gt;
-                        &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-                    &lt;/p&gt;
-                &lt;/section&gt;
-            &lt;/div&gt;
-        &lt;/article&gt;
-
-&lt;nav class="pagination" role="pagination"&gt;
-  &lt;div class="inner"&gt;
-    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
-    &lt;div class="clear"&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-  &lt;/main&gt;
-&lt;/div&gt;
-      &lt;!-- TODO : Body class --&gt;
-    &lt;div id="body-class" style="display: none;" class=""&gt;&lt;/div&gt;
-
-    &lt;footer id="footer"&gt;
-      &lt;div class="inner"&gt;
-        &lt;section class="credits"&gt;
-
-
-          &lt;span class="credits-theme"&gt;Theme …&lt;/span&gt;&lt;/section&gt;&lt;/div&gt;&lt;/footer&gt;&lt;/section&gt;</summary><content type="html">
-
-&lt;nav id="menu"&gt;
-  &lt;a class="close-button"&gt;Close&lt;/a&gt;
-  &lt;div class="nav-wrapper"&gt;
-    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;!--
-
-              &lt;li role="presentation"&gt;&lt;a href="../pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
-      --&gt;
-
-            &lt;li&gt;&lt;a href="../pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="../archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="../categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="../tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-    &lt;!-- Page Header --&gt;
-    &lt;!-- Set your background image for this header on the line below. --&gt;
-    &lt;header id="blog-header" class="has-cover"&gt;
-      &lt;div class="inner"&gt;
-        &lt;nav id="navigation"&gt;
-            &lt;span id="home-button" class="nav-button"&gt;
-                &lt;a class="home-button" href="../" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
-            &lt;/span&gt;
-          &lt;span id="menu-button" class="nav-button"&gt;
-            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
-          &lt;/span&gt;
-        &lt;/nav&gt;
-        &lt;h1 class="post-title"&gt;Category w6&lt;/h1&gt;
-        &lt;span class="blog-description"&gt;Posts: 1&lt;/span&gt;
-            &lt;div class="post-cover cover" style="background-image: url('../theme/images/post-bg.jpg')"&gt;
-      &lt;/div&gt;
-    &lt;/header&gt;
-
-  &lt;section id="wrapper"&gt;
-    &lt;a class="hidden-close"&gt;&lt;/a&gt;
-
-&lt;section class="search"&gt;
-      &lt;form class="navbar-search" action="../search.html"&gt;
-      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
-    &lt;/form&gt;
-&lt;/section&gt;
-
-
-&lt;div id="index" class="container"&gt;
-  &lt;main class="content" role="main"&gt;
-    &lt;div class="extra-pagination"&gt;
-&lt;nav class="pagination" role="pagination"&gt;
-  &lt;div class="inner"&gt;
-    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
-    &lt;div class="clear"&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-    &lt;/div&gt;
-
-        &lt;article class="post"&gt;
-        &lt;div class="inner"&gt;
-            &lt;header class="post-header"&gt;         
-                &lt;h2 class="post-title"&gt;&lt;a href="../w6.html" rel="bookmark" title="Permalink to 2024/03/28"&gt;2024/03/28&lt;/a&gt;
-                &lt;/h2&gt;
-                &lt;span class="post-meta"&gt;
-                        &lt;a href="../author/41123214.html"&gt;41123214&lt;/a&gt;
-                     | &lt;time datetime="Thu 14 March 2024"&gt;Thu 14 March 2024&lt;/time&gt;
-                &lt;/span&gt;
-                &lt;div class="clear"&gt;&lt;/div&gt;
-            &lt;/header&gt;
-                &lt;section class="post-excerpt"&gt;
-                    &lt;p&gt;
-                        &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-                    &lt;/p&gt;
-                &lt;/section&gt;
-            &lt;/div&gt;
-        &lt;/article&gt;
-
-&lt;nav class="pagination" role="pagination"&gt;
-  &lt;div class="inner"&gt;
-    &lt;span class="pagination-info"&gt;Page 1 / 1&lt;/span&gt;
-    &lt;div class="clear"&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-  &lt;/main&gt;
-&lt;/div&gt;
-      &lt;!-- TODO : Body class --&gt;
-    &lt;div id="body-class" style="display: none;" class=""&gt;&lt;/div&gt;
-
-    &lt;footer id="footer"&gt;
-      &lt;div class="inner"&gt;
-        &lt;section class="credits"&gt;
-
-
-          &lt;span class="credits-theme"&gt;Theme &lt;a href="https://github.com/arulrajnet/attila" rel="nofollow"&gt;Attila&lt;/a&gt;&lt;/span&gt;
-          &lt;span class="credits-software"&gt;Published with &lt;a href="https://github.com/getpelican/pelican" rel="nofollow"&gt;Pelican&lt;/a&gt;&lt;/span&gt;
-        &lt;/section&gt;
-      &lt;/div&gt;
-    &lt;/footer&gt;
-  &lt;/section&gt;
-  
-  &lt;script type="text/javascript" src="../theme/js/script.js"&gt;&lt;/script&gt;
-
- 
-
-
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Tag 網誌編寫</title><link href="./41123214xie-tong-chan-pin-she-ji-tag-wang-zhi-bian-xie.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-tag-wang-zhi-bian-xie.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Tag 網誌編寫</title><link href="./41123214xie-tong-chan-pin-she-ji-tag-wang-zhi-bian-xie.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-tag-wang-zhi-bian-xie.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -1596,7 +1596,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Search</title><link href="./41123214xie-tong-chan-pin-she-ji-search.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-search.html</id><content type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Search</title><link href="./41123214xie-tong-chan-pin-she-ji-search.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-search.html</id><content type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -1685,7 +1685,7 @@
     });
     &lt;/script&gt;
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Archives</title><link href="./41123214xie-tong-chan-pin-she-ji-archives.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-archives.html</id><content type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Archives</title><link href="./41123214xie-tong-chan-pin-she-ji-archives.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-archives.html</id><content type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -1768,7 +1768,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Authors</title><link href="./41123214xie-tong-chan-pin-she-ji-authors.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-authors.html</id><content type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Authors</title><link href="./41123214xie-tong-chan-pin-she-ji-authors.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-authors.html</id><content type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -1856,7 +1856,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Categories</title><link href="./41123214xie-tong-chan-pin-she-ji-categories.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-categories.html</id><content type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Categories</title><link href="./41123214xie-tong-chan-pin-she-ji-categories.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-categories.html</id><content type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -1945,7 +1945,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Tags</title><link href="./41123214xie-tong-chan-pin-she-ji-tags.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji-tags.html</id><content type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計 - Tags</title><link href="./41123214xie-tong-chan-pin-she-ji-tags.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji-tags.html</id><content type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -2020,7 +2020,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>41123214協同產品設計</title><link href="./41123214xie-tong-chan-pin-she-ji.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./41123214xie-tong-chan-pin-she-ji.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>41123214協同產品設計</title><link href="./41123214xie-tong-chan-pin-she-ji.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-10:./41123214xie-tong-chan-pin-she-ji.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -2271,7 +2271,7 @@
  
 
 
-</content><category term="misc"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-spring-ke-cheng.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-09:./2024-spring-ke-cheng.html</id><summary type="html">
+</content><category term="misc"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-spring-ke-cheng.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-10:./2024-spring-ke-cheng.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -2718,226 +2718,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
  
 
 
-</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024/03/14</title><link href="./20240314.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-09:./20240314.html</id><summary type="html">
-
-&lt;nav id="menu"&gt;
-  &lt;a class="close-button"&gt;Close&lt;/a&gt;
-  &lt;div class="nav-wrapper"&gt;
-    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;!--
-
-              &lt;li role="presentation"&gt;&lt;a href="./pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
-      --&gt;
-
-            &lt;li&gt;&lt;a href="./pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="./archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="./categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="./tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-    &lt;!-- Progressbar --&gt;
-    &lt;div class="progress-container"&gt;
-        &lt;span class="progress-bar"&gt;&lt;/span&gt;
-    &lt;/div&gt;
-
-    &lt;!-- Page Header --&gt;
-    &lt;!-- Set your background image for this header on the line below. --&gt;
-    &lt;header id="post-header" class="has-cover"&gt;
-      &lt;div class="inner"&gt;
-        &lt;nav id="navigation"&gt;
-            &lt;span id="home-button" class="nav-button"&gt;
-                &lt;a class="home-button" href="./index.html" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
-            &lt;/span&gt;
-          &lt;span id="menu-button" class="nav-button"&gt;
-            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
-          &lt;/span&gt;
-        &lt;/nav&gt;
-        &lt;h1 class="post-title"&gt;2024/03/14&lt;/h1&gt;
-        &lt;!-- TODO : Proper class for headline --&gt;
-        &lt;span class="post-meta"&gt;
-                &lt;a href="./author/41123214.html"&gt;41123214&lt;/a&gt;
-            | &lt;time datetime="Thu 21 March 2024"&gt;Thu 21 March 2024&lt;/time&gt;
-        &lt;/span&gt;
-        &lt;!-- TODO : Modified check --&gt;
-            &lt;span class="post-meta"&gt; | Updated on Tue 09 April 2024&lt;/span&gt;
-            &lt;div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')"&gt;
-      &lt;/div&gt;
-    &lt;/header&gt;
-
-  &lt;section id="wrapper"&gt;
-    &lt;a class="hidden-close"&gt;&lt;/a&gt;
-
-&lt;section class="search"&gt;
-      &lt;form class="navbar-search" action="./search.html"&gt;
-      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
-    &lt;/form&gt;
-&lt;/section&gt;
-
-
-    &lt;!-- Post content --&gt;
-    &lt;main class="content" role="main"&gt;
-        &lt;article class="post"&gt;
-        &lt;div class="inner"&gt;
-            &lt;section class="post-content"&gt;
-                &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;第四週網誌 …&lt;/h1&gt;&lt;/section&gt;&lt;/div&gt;&lt;/article&gt;&lt;/main&gt;&lt;/section&gt;</summary><content type="html">
-
-&lt;nav id="menu"&gt;
-  &lt;a class="close-button"&gt;Close&lt;/a&gt;
-  &lt;div class="nav-wrapper"&gt;
-    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;!--
-
-              &lt;li role="presentation"&gt;&lt;a href="./pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
-      --&gt;
-
-            &lt;li&gt;&lt;a href="./pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="./archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="./categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-            
-            &lt;li&gt;&lt;a href="./tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/nav&gt;
-    &lt;!-- Progressbar --&gt;
-    &lt;div class="progress-container"&gt;
-        &lt;span class="progress-bar"&gt;&lt;/span&gt;
-    &lt;/div&gt;
-
-    &lt;!-- Page Header --&gt;
-    &lt;!-- Set your background image for this header on the line below. --&gt;
-    &lt;header id="post-header" class="has-cover"&gt;
-      &lt;div class="inner"&gt;
-        &lt;nav id="navigation"&gt;
-            &lt;span id="home-button" class="nav-button"&gt;
-                &lt;a class="home-button" href="./index.html" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
-            &lt;/span&gt;
-          &lt;span id="menu-button" class="nav-button"&gt;
-            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
-          &lt;/span&gt;
-        &lt;/nav&gt;
-        &lt;h1 class="post-title"&gt;2024/03/14&lt;/h1&gt;
-        &lt;!-- TODO : Proper class for headline --&gt;
-        &lt;span class="post-meta"&gt;
-                &lt;a href="./author/41123214.html"&gt;41123214&lt;/a&gt;
-            | &lt;time datetime="Thu 21 March 2024"&gt;Thu 21 March 2024&lt;/time&gt;
-        &lt;/span&gt;
-        &lt;!-- TODO : Modified check --&gt;
-            &lt;span class="post-meta"&gt; | Updated on Tue 09 April 2024&lt;/span&gt;
-            &lt;div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')"&gt;
-      &lt;/div&gt;
-    &lt;/header&gt;
-
-  &lt;section id="wrapper"&gt;
-    &lt;a class="hidden-close"&gt;&lt;/a&gt;
-
-&lt;section class="search"&gt;
-      &lt;form class="navbar-search" action="./search.html"&gt;
-      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
-    &lt;/form&gt;
-&lt;/section&gt;
-
-
-    &lt;!-- Post content --&gt;
-    &lt;main class="content" role="main"&gt;
-        &lt;article class="post"&gt;
-        &lt;div class="inner"&gt;
-            &lt;section class="post-content"&gt;
-                &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;第四週網誌&lt;/h1&gt;
-&lt;h2&gt;LaTeX&lt;/h2&gt;
-&lt;p&gt;\documentclass{article}
-\usepackage[utf8]{inputenc}&lt;/p&gt;
-&lt;p&gt;% 定义英文到中文的映射
-\def\englishToChinese{
-{"hello", "你好"},
-{"world", "世界"},
-{"programming", "编程"},
-{"language", "语言"},
-% 添加更多映射
-}&lt;/p&gt;
-&lt;p&gt;% 定义翻译函数
-\newcommand{\translateToChinese}[1]{
-\foreach \word/\translation in \englishToChinese {
-\ifx\word#1
-\translation
-\break
-\fi
-}&lt;/p&gt;
-&lt;h1&gt;1&lt;/h1&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;\begin{document}&lt;/p&gt;
-&lt;p&gt;% 输入英文句子
-\def\englishSentence{hello world, programming language.}
-\textbf{English sentence:} \englishSentence&lt;/p&gt;
-&lt;p&gt;% 翻译并输出结果
-\textbf{Translated sentence:}
-\translateToChinese{hello}
-\translateToChinese{world},
-\translateToChinese{programming}
-\translateToChinese{language}.&lt;/p&gt;
-&lt;p&gt;\end{document}&lt;/p&gt;
-            &lt;/section&gt;
-
-            &lt;section class="post-info"&gt;
-                &lt;aside class="post-tags"&gt;
-&lt;a href="./tag/wang-zhi-bian-xie.html"&gt;網誌編寫&lt;/a&gt;                &lt;/aside&gt;
-
-                &lt;div class="clear"&gt;&lt;/div&gt;
-
-
-                &lt;/section&gt;
-
-
-                &lt;aside class="post-nav"&gt;
-                    &lt;a class="post-nav-prev" href="./w5.html"&gt;
-                        &lt;section class="post-nav-teaser"&gt;
-                            &lt;i class="ic ic-arrow-right"&gt;&lt;/i&gt;
-                                &lt;h2 class="post-nav-title"&gt;2024/03/21&lt;/h2&gt;
-                            &lt;p class="post-nav-excerpt"&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-                        &lt;/section&gt;
-                    &lt;/a&gt;
-                    &lt;div class="clear"&gt;&lt;/div&gt;
-                &lt;/aside&gt;
-
-            &lt;/div&gt;
-        &lt;/article&gt;
-    &lt;/main&gt;
-      &lt;!-- TODO : Body class --&gt;
-    &lt;div id="body-class" style="display: none;" class=""&gt;&lt;/div&gt;
-
-    &lt;footer id="footer"&gt;
-      &lt;div class="inner"&gt;
-        &lt;section class="credits"&gt;
-
-
-          &lt;span class="credits-theme"&gt;Theme &lt;a href="https://github.com/arulrajnet/attila" rel="nofollow"&gt;Attila&lt;/a&gt;&lt;/span&gt;
-          &lt;span class="credits-software"&gt;Published with &lt;a href="https://github.com/getpelican/pelican" rel="nofollow"&gt;Pelican&lt;/a&gt;&lt;/span&gt;
-        &lt;/section&gt;
-      &lt;/div&gt;
-    &lt;/footer&gt;
-  &lt;/section&gt;
-  
-  &lt;script type="text/javascript" src="./theme/js/script.js"&gt;&lt;/script&gt;
-
- 
-
-
-</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024/03/21</title><link href="./20240321.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-09:./20240321.html</id><summary type="html">
+</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024/03/21</title><link href="./20240321.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-10:./20240321.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -3135,7 +2916,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
  
 
 
-</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024/03/28</title><link href="./20240328.html" rel="alternate"></link><published>2024-04-09T12:17:28+08:00</published><updated>2024-04-09T12:17:28+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-09:./20240328.html</id><summary type="html">
+</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024/03/28</title><link href="./20240328.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-10:./20240328.html</id><summary type="html">
 
 &lt;nav id="menu"&gt;
   &lt;a class="close-button"&gt;Close&lt;/a&gt;
@@ -3304,6 +3085,225 @@ https://replit.com/@41123214/cd2024#markdown/20240328.md:16&lt;/p&gt;
                         &lt;section class="post-nav-teaser"&gt;
                             &lt;i class="ic ic-arrow-right"&gt;&lt;/i&gt;
                                 &lt;h2 class="post-nav-title"&gt;2024 Spring 課程&lt;/h2&gt;
+                            &lt;p class="post-nav-excerpt"&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+                        &lt;/section&gt;
+                    &lt;/a&gt;
+                    &lt;div class="clear"&gt;&lt;/div&gt;
+                &lt;/aside&gt;
+
+            &lt;/div&gt;
+        &lt;/article&gt;
+    &lt;/main&gt;
+      &lt;!-- TODO : Body class --&gt;
+    &lt;div id="body-class" style="display: none;" class=""&gt;&lt;/div&gt;
+
+    &lt;footer id="footer"&gt;
+      &lt;div class="inner"&gt;
+        &lt;section class="credits"&gt;
+
+
+          &lt;span class="credits-theme"&gt;Theme &lt;a href="https://github.com/arulrajnet/attila" rel="nofollow"&gt;Attila&lt;/a&gt;&lt;/span&gt;
+          &lt;span class="credits-software"&gt;Published with &lt;a href="https://github.com/getpelican/pelican" rel="nofollow"&gt;Pelican&lt;/a&gt;&lt;/span&gt;
+        &lt;/section&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+  &lt;/section&gt;
+  
+  &lt;script type="text/javascript" src="./theme/js/script.js"&gt;&lt;/script&gt;
+
+ 
+
+
+</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024/03/14</title><link href="./20240314.html" rel="alternate"></link><published>2024-04-10T08:35:02+08:00</published><updated>2024-04-10T08:35:02+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-10:./20240314.html</id><summary type="html">
+
+&lt;nav id="menu"&gt;
+  &lt;a class="close-button"&gt;Close&lt;/a&gt;
+  &lt;div class="nav-wrapper"&gt;
+    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;!--
+
+              &lt;li role="presentation"&gt;&lt;a href="./pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
+      --&gt;
+
+            &lt;li&gt;&lt;a href="./pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="./archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="./categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="./tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+    &lt;!-- Progressbar --&gt;
+    &lt;div class="progress-container"&gt;
+        &lt;span class="progress-bar"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;!-- Page Header --&gt;
+    &lt;!-- Set your background image for this header on the line below. --&gt;
+    &lt;header id="post-header" class="has-cover"&gt;
+      &lt;div class="inner"&gt;
+        &lt;nav id="navigation"&gt;
+            &lt;span id="home-button" class="nav-button"&gt;
+                &lt;a class="home-button" href="./index.html" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
+            &lt;/span&gt;
+          &lt;span id="menu-button" class="nav-button"&gt;
+            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/nav&gt;
+        &lt;h1 class="post-title"&gt;2024/03/14&lt;/h1&gt;
+        &lt;!-- TODO : Proper class for headline --&gt;
+        &lt;span class="post-meta"&gt;
+                &lt;a href="./author/41123214.html"&gt;41123214&lt;/a&gt;
+            | &lt;time datetime="Thu 21 March 2024"&gt;Thu 21 March 2024&lt;/time&gt;
+        &lt;/span&gt;
+        &lt;!-- TODO : Modified check --&gt;
+            &lt;span class="post-meta"&gt; | Updated on Tue 09 April 2024&lt;/span&gt;
+            &lt;div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')"&gt;
+      &lt;/div&gt;
+    &lt;/header&gt;
+
+  &lt;section id="wrapper"&gt;
+    &lt;a class="hidden-close"&gt;&lt;/a&gt;
+
+&lt;section class="search"&gt;
+      &lt;form class="navbar-search" action="./search.html"&gt;
+      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
+    &lt;/form&gt;
+&lt;/section&gt;
+
+
+    &lt;!-- Post content --&gt;
+    &lt;main class="content" role="main"&gt;
+        &lt;article class="post"&gt;
+        &lt;div class="inner"&gt;
+            &lt;section class="post-content"&gt;
+                &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第四週網誌 …&lt;/h1&gt;&lt;/section&gt;&lt;/div&gt;&lt;/article&gt;&lt;/main&gt;&lt;/section&gt;</summary><content type="html">
+
+&lt;nav id="menu"&gt;
+  &lt;a class="close-button"&gt;Close&lt;/a&gt;
+  &lt;div class="nav-wrapper"&gt;
+    &lt;p class="nav-label"&gt;Menu&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;!--
+
+              &lt;li role="presentation"&gt;&lt;a href="./pages/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
+      --&gt;
+
+            &lt;li&gt;&lt;a href="./pages/about/index.html"&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="./archives.html"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="./categories.html"&gt;Categories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            
+            &lt;li&gt;&lt;a href="./tags.html"&gt;Tags&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/nav&gt;
+    &lt;!-- Progressbar --&gt;
+    &lt;div class="progress-container"&gt;
+        &lt;span class="progress-bar"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;!-- Page Header --&gt;
+    &lt;!-- Set your background image for this header on the line below. --&gt;
+    &lt;header id="post-header" class="has-cover"&gt;
+      &lt;div class="inner"&gt;
+        &lt;nav id="navigation"&gt;
+            &lt;span id="home-button" class="nav-button"&gt;
+                &lt;a class="home-button" href="./index.html" title="Home"&gt;&lt;i class="ic ic-arrow-left"&gt;&lt;/i&gt; Home&lt;/a&gt;
+            &lt;/span&gt;
+          &lt;span id="menu-button" class="nav-button"&gt;
+            &lt;a class="menu-button"&gt;&lt;i class="ic ic-menu"&gt;&lt;/i&gt; Menu&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/nav&gt;
+        &lt;h1 class="post-title"&gt;2024/03/14&lt;/h1&gt;
+        &lt;!-- TODO : Proper class for headline --&gt;
+        &lt;span class="post-meta"&gt;
+                &lt;a href="./author/41123214.html"&gt;41123214&lt;/a&gt;
+            | &lt;time datetime="Thu 21 March 2024"&gt;Thu 21 March 2024&lt;/time&gt;
+        &lt;/span&gt;
+        &lt;!-- TODO : Modified check --&gt;
+            &lt;span class="post-meta"&gt; | Updated on Tue 09 April 2024&lt;/span&gt;
+            &lt;div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')"&gt;
+      &lt;/div&gt;
+    &lt;/header&gt;
+
+  &lt;section id="wrapper"&gt;
+    &lt;a class="hidden-close"&gt;&lt;/a&gt;
+
+&lt;section class="search"&gt;
+      &lt;form class="navbar-search" action="./search.html"&gt;
+      &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" required&gt;
+    &lt;/form&gt;
+&lt;/section&gt;
+
+
+    &lt;!-- Post content --&gt;
+    &lt;main class="content" role="main"&gt;
+        &lt;article class="post"&gt;
+        &lt;div class="inner"&gt;
+            &lt;section class="post-content"&gt;
+                &lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第四週網誌&lt;/h1&gt;
+&lt;h2&gt;LaTeX&lt;/h2&gt;
+&lt;p&gt;\documentclass{article}
+\usepackage[utf8]{inputenc}&lt;/p&gt;
+&lt;p&gt;% 定义英文到中文的映射
+\def\englishToChinese{
+{"hello", "你好"},
+{"world", "世界"},
+{"programming", "编程"},
+{"language", "语言"},
+% 添加更多映射
+}&lt;/p&gt;
+&lt;p&gt;% 定义翻译函数
+\newcommand{\translateToChinese}[1]{
+\foreach \word/\translation in \englishToChinese {
+\ifx\word#1
+\translation
+\break
+\fi
+}&lt;/p&gt;
+&lt;h1&gt;1&lt;/h1&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;\begin{document}&lt;/p&gt;
+&lt;p&gt;% 输入英文句子
+\def\englishSentence{hello world, programming language.}
+\textbf{English sentence:} \englishSentence&lt;/p&gt;
+&lt;p&gt;% 翻译并输出结果
+\textbf{Translated sentence:}
+\translateToChinese{hello}
+\translateToChinese{world},
+\translateToChinese{programming}
+\translateToChinese{language}.&lt;/p&gt;
+&lt;p&gt;\end{document}&lt;/p&gt;
+            &lt;/section&gt;
+
+            &lt;section class="post-info"&gt;
+                &lt;aside class="post-tags"&gt;
+&lt;a href="./tag/wang-zhi-bian-xie.html"&gt;網誌編寫&lt;/a&gt;                &lt;/aside&gt;
+
+                &lt;div class="clear"&gt;&lt;/div&gt;
+
+
+                &lt;/section&gt;
+
+
+                &lt;aside class="post-nav"&gt;
+                    &lt;a class="post-nav-prev" href="./w5.html"&gt;
+                        &lt;section class="post-nav-teaser"&gt;
+                            &lt;i class="ic ic-arrow-right"&gt;&lt;/i&gt;
+                                &lt;h2 class="post-nav-title"&gt;2024/03/21&lt;/h2&gt;
                             &lt;p class="post-nav-excerpt"&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
                         &lt;/section&gt;
                     &lt;/a&gt;
@@ -4327,133 +4327,6 @@ https://replit.com/@41123214/cd2024#markdown/20240328.md:16&lt;/p&gt;
 			&lt;div class="reveal" style="display: none;"&gt;
 				&lt;div class="slides"&gt;
 					&lt;section&gt;1.1&lt;/section&gt;
-					&lt;section data-state="deck1slide2"&gt;1.2&lt;/section&gt;
-					&lt;section&gt;1.3&lt;/section&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-
-		&lt;div class="deck2"&gt;
-			&lt;div class="reveal" style="display: none;"&gt;
-				&lt;div class="slides"&gt;
-					&lt;section&gt;2.1&lt;/section&gt;
-					&lt;section&gt;2.2&lt;/section&gt;
-					&lt;section&gt;2.3&lt;/section&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-
-		&lt;script type="module"&gt;
-
-			import Reveal from '../dist/reveal.esm.js';
-			import Zoom from '../plugin/zoom/zoom.esm.js';
-
-			QUnit.module( 'Multiple reveal.js instances' );
-
-			let r1 = new Reveal( document.querySelector( '.deck1 .reveal' ), {
-				embedded: true,
-				keyboard: true,
-				plugins: [ Zoom ]
-			} );
-			r1.initialize();
-
-			let …&lt;/script&gt;</summary><content type="html">
-
-		&lt;div id="qunit"&gt;&lt;/div&gt;
-		&lt;div id="qunit-fixture"&gt;&lt;/div&gt;
-
-		&lt;div class="deck1"&gt;
-			&lt;div class="reveal" style="display: none;"&gt;
-				&lt;div class="slides"&gt;
-					&lt;section&gt;1.1&lt;/section&gt;
-					&lt;section data-state="deck1slide2"&gt;1.2&lt;/section&gt;
-					&lt;section&gt;1.3&lt;/section&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-
-		&lt;div class="deck2"&gt;
-			&lt;div class="reveal" style="display: none;"&gt;
-				&lt;div class="slides"&gt;
-					&lt;section&gt;2.1&lt;/section&gt;
-					&lt;section&gt;2.2&lt;/section&gt;
-					&lt;section&gt;2.3&lt;/section&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-
-		&lt;script type="module"&gt;
-
-			import Reveal from '../dist/reveal.esm.js';
-			import Zoom from '../plugin/zoom/zoom.esm.js';
-
-			QUnit.module( 'Multiple reveal.js instances' );
-
-			let r1 = new Reveal( document.querySelector( '.deck1 .reveal' ), {
-				embedded: true,
-				keyboard: true,
-				plugins: [ Zoom ]
-			} );
-			r1.initialize();
-
-			let r2 = new Reveal( document.querySelector( '.deck2 .reveal' ), {
-				embedded: true,
-				keyboard: false
-			} );
-			r2.initialize();
-
-			QUnit.test( 'Can make independent changes', function( assert ) {
-
-				r1.slide(1);
-				r2.slide(2);
-				assert.strictEqual( r1.getCurrentSlide().textContent, '1.2' );
-				assert.strictEqual( r2.getCurrentSlide().textContent, '2.3' );
-
-				r2.toggleOverview( true );
-				assert.strictEqual( r1.isOverview(), false );
-				assert.strictEqual( r2.isOverview(), true );
-				r2.toggleOverview( false );
-
-				assert.strictEqual( r1.getConfig().keyboard, true );
-				assert.strictEqual( r2.getConfig().keyboard, false );
-
-			});
-
-			QUnit.test( 'Can register plugins independently', function( assert ) {
-
-				assert.ok( r1.hasPlugin( 'zoom' ) );
-				assert.notOk( r2.hasPlugin( 'zoom' ) );
-
-			});
-
-			QUnit.test( 'Slide state is set at the viewport level', function( assert ) {
-
-				r1.slide(1);
-
-				assert.ok( r1.getViewportElement().classList.contains( r1.getCurrentSlide().getAttribute( 'data-state' ) ) );
-
-				r1.slide(2);
-
-				assert.ok( !r1.getViewportElement().classList.contains( r1.getCurrentSlide().getAttribute( 'data-state' ) ), 'unset' );
-
-			});
-
-		&lt;/script&gt;
-		&lt;script&gt;
-			QUnit.test( 'Reveal does not leak to window', function( assert ) {
-				assert.strictEqual( window.Reveal, undefined );
-			});
-		&lt;/script&gt;
-
-	</content><category term="misc"></category></entry><entry><title>reveal.js - Test Iframes</title><link href="./revealjs-test-iframes.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./revealjs-test-iframes.html</id><summary type="html">
-
-		&lt;div id="qunit"&gt;&lt;/div&gt;
-		&lt;div id="qunit-fixture"&gt;&lt;/div&gt;
-
-		&lt;div class="deck1"&gt;
-			&lt;div class="reveal" style="display: none;"&gt;
-				&lt;div class="slides"&gt;
-					&lt;section&gt;1.1&lt;/section&gt;
 					&lt;section&gt;1.2&lt;/section&gt;
 					&lt;section&gt;1.3&lt;/section&gt;
 				&lt;/div&gt;
@@ -4680,6 +4553,133 @@ https://replit.com/@41123214/cd2024#markdown/20240328.md:16&lt;/p&gt;
 				});
 
 			} );
+		&lt;/script&gt;
+
+	</content><category term="misc"></category></entry><entry><title>reveal.js - Test Iframes</title><link href="./revealjs-test-iframes.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./revealjs-test-iframes.html</id><summary type="html">
+
+		&lt;div id="qunit"&gt;&lt;/div&gt;
+		&lt;div id="qunit-fixture"&gt;&lt;/div&gt;
+
+		&lt;div class="deck1"&gt;
+			&lt;div class="reveal" style="display: none;"&gt;
+				&lt;div class="slides"&gt;
+					&lt;section&gt;1.1&lt;/section&gt;
+					&lt;section data-state="deck1slide2"&gt;1.2&lt;/section&gt;
+					&lt;section&gt;1.3&lt;/section&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class="deck2"&gt;
+			&lt;div class="reveal" style="display: none;"&gt;
+				&lt;div class="slides"&gt;
+					&lt;section&gt;2.1&lt;/section&gt;
+					&lt;section&gt;2.2&lt;/section&gt;
+					&lt;section&gt;2.3&lt;/section&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;script type="module"&gt;
+
+			import Reveal from '../dist/reveal.esm.js';
+			import Zoom from '../plugin/zoom/zoom.esm.js';
+
+			QUnit.module( 'Multiple reveal.js instances' );
+
+			let r1 = new Reveal( document.querySelector( '.deck1 .reveal' ), {
+				embedded: true,
+				keyboard: true,
+				plugins: [ Zoom ]
+			} );
+			r1.initialize();
+
+			let …&lt;/script&gt;</summary><content type="html">
+
+		&lt;div id="qunit"&gt;&lt;/div&gt;
+		&lt;div id="qunit-fixture"&gt;&lt;/div&gt;
+
+		&lt;div class="deck1"&gt;
+			&lt;div class="reveal" style="display: none;"&gt;
+				&lt;div class="slides"&gt;
+					&lt;section&gt;1.1&lt;/section&gt;
+					&lt;section data-state="deck1slide2"&gt;1.2&lt;/section&gt;
+					&lt;section&gt;1.3&lt;/section&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class="deck2"&gt;
+			&lt;div class="reveal" style="display: none;"&gt;
+				&lt;div class="slides"&gt;
+					&lt;section&gt;2.1&lt;/section&gt;
+					&lt;section&gt;2.2&lt;/section&gt;
+					&lt;section&gt;2.3&lt;/section&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;script type="module"&gt;
+
+			import Reveal from '../dist/reveal.esm.js';
+			import Zoom from '../plugin/zoom/zoom.esm.js';
+
+			QUnit.module( 'Multiple reveal.js instances' );
+
+			let r1 = new Reveal( document.querySelector( '.deck1 .reveal' ), {
+				embedded: true,
+				keyboard: true,
+				plugins: [ Zoom ]
+			} );
+			r1.initialize();
+
+			let r2 = new Reveal( document.querySelector( '.deck2 .reveal' ), {
+				embedded: true,
+				keyboard: false
+			} );
+			r2.initialize();
+
+			QUnit.test( 'Can make independent changes', function( assert ) {
+
+				r1.slide(1);
+				r2.slide(2);
+				assert.strictEqual( r1.getCurrentSlide().textContent, '1.2' );
+				assert.strictEqual( r2.getCurrentSlide().textContent, '2.3' );
+
+				r2.toggleOverview( true );
+				assert.strictEqual( r1.isOverview(), false );
+				assert.strictEqual( r2.isOverview(), true );
+				r2.toggleOverview( false );
+
+				assert.strictEqual( r1.getConfig().keyboard, true );
+				assert.strictEqual( r2.getConfig().keyboard, false );
+
+			});
+
+			QUnit.test( 'Can register plugins independently', function( assert ) {
+
+				assert.ok( r1.hasPlugin( 'zoom' ) );
+				assert.notOk( r2.hasPlugin( 'zoom' ) );
+
+			});
+
+			QUnit.test( 'Slide state is set at the viewport level', function( assert ) {
+
+				r1.slide(1);
+
+				assert.ok( r1.getViewportElement().classList.contains( r1.getCurrentSlide().getAttribute( 'data-state' ) ) );
+
+				r1.slide(2);
+
+				assert.ok( !r1.getViewportElement().classList.contains( r1.getCurrentSlide().getAttribute( 'data-state' ) ), 'unset' );
+
+			});
+
+		&lt;/script&gt;
+		&lt;script&gt;
+			QUnit.test( 'Reveal does not leak to window', function( assert ) {
+				assert.strictEqual( window.Reveal, undefined );
+			});
 		&lt;/script&gt;
 
 	</content><category term="misc"></category></entry><entry><title>reveal.js - Test Markdown</title><link href="./revealjs-test-markdown.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./revealjs-test-markdown.html</id><summary type="html">
@@ -9730,159 +9730,6 @@ Therefor the usage with subcategories is:&lt;/p&gt;
           &lt;/div&gt;
 
         &lt;/header&gt;
-    &lt;div id="tipue_search_content"&gt; &lt;a href="cmsimde.html"&gt;Next&lt;/a&gt; &gt;&gt; cmsimde&lt;br /&gt;&lt;h1&gt;About&lt;/h1&gt;
-&lt;p&gt;網頁: 請填入目前網站所在的 URL, &lt;a href="https://mde.tw/cmsimde_site"&gt;https://mde.tw/cmsimde_site&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;網誌: 請填入目前網站所在的 URL/blog, &lt;a href="https://mde.tw/cmsimde_site/blog"&gt;https://mde.tw/cmsimde_site/blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;簡報 …&lt;/p&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;</summary><content type="html">
-&lt;div class="container"&gt;&lt;nav&gt;
-        
-    &lt;div class="site-wrap"&gt;
-
-    &lt;div class="site-mobile-menu"&gt;
-      &lt;div class="site-mobile-menu-header"&gt;
-        &lt;div class="site-mobile-menu-close mt-3"&gt;
-          &lt;span class="icon-close2 js-menu-toggle"&gt;&lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class="site-mobile-menu-body"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-            &lt;header class="site-navbar py-4 bg-white" role="banner"&gt;
-              &lt;div class="container"&gt;
-                &lt;div class="row align-items-center"&gt;
-                &lt;h1&gt;41132222&lt;/h1&gt;
-                &lt;div class="pl-4"&gt;
-                    &lt;form&gt;
-                    &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required&gt;
-                    &lt;/form&gt;
-                &lt;/div&gt;
-                  &lt;!-- &lt;div class="col-11 col-xl-2"&gt;
-                    &lt;h1 class="mb-0 site-logo"&gt;&lt;a href="index.html" class="text-black h2 mb-0"&gt;41132222&lt;/a&gt;&lt;/h1&gt; 
-                  &lt;/div&gt;
-                  --&gt;
-                  &lt;div class="col-12 col-md-10 d-none d-xl-block"&gt;
-                    &lt;nav class="site-navigation position-relative text-right" role="navigation"&gt;
-    &lt;ul class="site-menu js-clone-nav mr-auto d-none d-lg-block"&gt;
-                        &lt;li class="active has-children"&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;
-                        &lt;ul class="dropdown"&gt;
-                            &lt;li&gt;&lt;a href="sitemap.html"&gt;SMap&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href="./../reveal/index.html"&gt;reveal&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/li&gt;
-                     &lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;
-                      &lt;/ul&gt;
-                &lt;/nav&gt;
-              &lt;/div&gt;
-              &lt;div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"&gt;&lt;a href="#" class="site-menu-toggle js-menu-toggle text-black"&gt;&lt;span class="icon-menu h3"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-
-            &lt;/div&gt;
-          &lt;/div&gt;
-
-        &lt;/header&gt;
-    &lt;div id="tipue_search_content"&gt; &lt;a href="cmsimde.html"&gt;Next&lt;/a&gt; &gt;&gt; cmsimde&lt;br /&gt;&lt;h1&gt;About&lt;/h1&gt;
-&lt;p&gt;網頁: 請填入目前網站所在的 URL, &lt;a href="https://mde.tw/cmsimde_site"&gt;https://mde.tw/cmsimde_site&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;網誌: 請填入目前網站所在的 URL/blog, &lt;a href="https://mde.tw/cmsimde_site/blog"&gt;https://mde.tw/cmsimde_site/blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;簡報: 請填入目前網站所在的 URL/reveal, &lt;a href="https://mde.tw/cmsimde_site/reveal"&gt;https://mde.tw/cmsimde_site/reveal&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;br /&gt; &lt;a href="cmsimde.html"&gt;Next&lt;/a&gt; &gt;&gt; cmsimde&lt;/div&gt;
-
-    &lt;!-- footer --&gt;
-      &lt;div class="container"&gt;
-        &lt;div class="row pt-3 mx-auto"&gt;
-            &lt;p&gt;
-            &lt;!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --&gt;
-            Copyright &amp;copy;&lt;script&gt;document.write(new Date().getFullYear());&lt;/script&gt; All rights reserved | This template is made with &lt;i class="icon-heart" aria-hidden="true"&gt;&lt;/i&gt; by &lt;a href="https://colorlib.com" target="_blank"&gt;Colorlib&lt;/a&gt;
-            &lt;!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;!-- for footer --&gt;
-
-        &lt;/div&gt; &lt;!-- for site wrap --&gt;
-            &lt;!-- &lt;script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"&gt;&lt;/script&gt; --&gt;
-            &lt;script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/jquery-ui.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/popper.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/bootstrap.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/owl.carousel.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"&gt;&lt;/script&gt;
-            &lt;script src="../cmsimde/static/chimper/js/aos.js"&gt;&lt;/script&gt;
-            &lt;!--
-            &lt;script src="../cmsimde/static/chimper/js/typed.js"&gt;&lt;/script&gt;
-                    &lt;script&gt;
-                    var typed = new Typed('.typed-words', {
-                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
-                    typeSpeed: 80,
-                    backSpeed: 80,
-                    backDelay: 4000,
-                    startDelay: 1000,
-                    loop: true,
-                    showCursor: true
-                    });
-                    &lt;/script&gt;
-            --&gt;
-            &lt;script src="../cmsimde/static/chimper/js/main.js"&gt;&lt;/script&gt;
-        
-&lt;!-- 啟用 LaTeX equations 編輯 --&gt;
-  &lt;!-- &lt;script&gt;
-  MathJax = {
-    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
-  };
-  &lt;/script&gt;
-  &lt;script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"&gt;&lt;/script&gt;--&gt;
-    </content><category term="misc"></category></entry><entry><title>cmsimde_site</title><link href="./cmsimde_site.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./cmsimde_site.html</id><summary type="html">
-&lt;div class="container"&gt;&lt;nav&gt;
-        
-    &lt;div class="site-wrap"&gt;
-
-    &lt;div class="site-mobile-menu"&gt;
-      &lt;div class="site-mobile-menu-header"&gt;
-        &lt;div class="site-mobile-menu-close mt-3"&gt;
-          &lt;span class="icon-close2 js-menu-toggle"&gt;&lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class="site-mobile-menu-body"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-            &lt;header class="site-navbar py-4 bg-white" role="banner"&gt;
-              &lt;div class="container"&gt;
-                &lt;div class="row align-items-center"&gt;
-                &lt;h1&gt;41132222&lt;/h1&gt;
-                &lt;div class="pl-4"&gt;
-                    &lt;form&gt;
-                    &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required&gt;
-                    &lt;/form&gt;
-                &lt;/div&gt;
-                  &lt;!-- &lt;div class="col-11 col-xl-2"&gt;
-                    &lt;h1 class="mb-0 site-logo"&gt;&lt;a href="index.html" class="text-black h2 mb-0"&gt;41132222&lt;/a&gt;&lt;/h1&gt; 
-                  &lt;/div&gt;
-                  --&gt;
-                  &lt;div class="col-12 col-md-10 d-none d-xl-block"&gt;
-                    &lt;nav class="site-navigation position-relative text-right" role="navigation"&gt;
-    &lt;ul class="site-menu js-clone-nav mr-auto d-none d-lg-block"&gt;
-                        &lt;li class="active has-children"&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;
-                        &lt;ul class="dropdown"&gt;
-                            &lt;li&gt;&lt;a href="sitemap.html"&gt;SMap&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href="./../reveal/index.html"&gt;reveal&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/li&gt;
-                     &lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;
-                      &lt;/ul&gt;
-                &lt;/nav&gt;
-              &lt;/div&gt;
-              &lt;div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"&gt;&lt;a href="#" class="site-menu-toggle js-menu-toggle text-black"&gt;&lt;span class="icon-menu h3"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-
-            &lt;/div&gt;
-          &lt;/div&gt;
-
-        &lt;/header&gt;
     &lt;div id="tipue_search_content"&gt;cmsimde &lt;&lt; &lt;a href="cmsimde.html"&gt;Previous&lt;/a&gt; &lt;a href="Brython.html"&gt;Next&lt;/a&gt; &gt;&gt; Brython&lt;br /&gt;&lt;h1&gt;Replit&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://replit.com"&gt;https://replit.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;利用 init_replit 指令安裝所需 Python 模組&lt;br /&gt;&lt;br /&gt;chmod u+x init_replit&lt;br /&gt;&lt;br /&gt;./init_replit&lt;/p&gt;
@@ -10117,6 +9964,206 @@ Therefor the usage with subcategories is:&lt;/p&gt;
 &lt;p&gt;&lt;span style="background-color: #ccffcc;"&gt;80&lt;/span&gt; - 由 init.py 中 static_port 所決定的連結字串, 一般不使用 80, 只有在 Replit 中為了與動態網站共用 port, 才特別設為 80.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;br /&gt;About &lt;&lt; &lt;a href="About.html"&gt;Previous&lt;/a&gt; &lt;a href="Replit.html"&gt;Next&lt;/a&gt; &gt;&gt; Replit&lt;/div&gt;
+
+    &lt;!-- footer --&gt;
+      &lt;div class="container"&gt;
+        &lt;div class="row pt-3 mx-auto"&gt;
+            &lt;p&gt;
+            &lt;!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --&gt;
+            Copyright &amp;copy;&lt;script&gt;document.write(new Date().getFullYear());&lt;/script&gt; All rights reserved | This template is made with &lt;i class="icon-heart" aria-hidden="true"&gt;&lt;/i&gt; by &lt;a href="https://colorlib.com" target="_blank"&gt;Colorlib&lt;/a&gt;
+            &lt;!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;!-- for footer --&gt;
+
+        &lt;/div&gt; &lt;!-- for site wrap --&gt;
+            &lt;!-- &lt;script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"&gt;&lt;/script&gt; --&gt;
+            &lt;script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/jquery-ui.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/popper.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/bootstrap.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/owl.carousel.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"&gt;&lt;/script&gt;
+            &lt;script src="../cmsimde/static/chimper/js/aos.js"&gt;&lt;/script&gt;
+            &lt;!--
+            &lt;script src="../cmsimde/static/chimper/js/typed.js"&gt;&lt;/script&gt;
+                    &lt;script&gt;
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    &lt;/script&gt;
+            --&gt;
+            &lt;script src="../cmsimde/static/chimper/js/main.js"&gt;&lt;/script&gt;
+        
+&lt;!-- 啟用 LaTeX equations 編輯 --&gt;
+  &lt;!-- &lt;script&gt;
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  &lt;/script&gt;
+  &lt;script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"&gt;&lt;/script&gt;--&gt;
+    </content><category term="misc"></category></entry><entry><title>cmsimde_site</title><link href="./cmsimde_site.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./cmsimde_site.html</id><content type="html">
+&lt;div class="container"&gt;&lt;nav&gt;
+    &lt;div class="site-wrap"&gt;
+
+    &lt;div class="site-mobile-menu"&gt;
+      &lt;div class="site-mobile-menu-header"&gt;
+        &lt;div class="site-mobile-menu-close mt-3"&gt;
+          &lt;span class="icon-close2 js-menu-toggle"&gt;&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="site-mobile-menu-body"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+            &lt;header class="site-navbar py-4 bg-white" role="banner"&gt;
+              &lt;div class="container"&gt;
+                &lt;div class="row align-items-center"&gt;
+                &lt;h1&gt;41132222&lt;/h1&gt;
+                &lt;div class="pl-4"&gt;
+                    &lt;form&gt;
+                    &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required&gt;
+                    &lt;/form&gt;
+                &lt;/div&gt;
+                  &lt;!-- &lt;div class="col-11 col-xl-2"&gt;
+                    &lt;h1 class="mb-0 site-logo"&gt;&lt;a href="index.html" class="text-black h2 mb-0"&gt;41132222&lt;/a&gt;&lt;/h1&gt; 
+                  &lt;/div&gt;
+                  --&gt;
+                  &lt;div class="col-12 col-md-10 d-none d-xl-block"&gt;
+                    &lt;nav class="site-navigation position-relative text-right" role="navigation"&gt;
+    &lt;ul class="site-menu js-clone-nav mr-auto d-none d-lg-block"&gt;
+                        &lt;li class="active has-children"&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;
+                        &lt;ul class="dropdown"&gt;
+                            &lt;li&gt;&lt;a href="sitemap.html"&gt;SMap&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="./../reveal/index.html"&gt;reveal&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;
+                        &lt;/ul&gt;
+                      &lt;/li&gt;
+                     &lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;
+                      &lt;/ul&gt;
+                &lt;/nav&gt;
+              &lt;/div&gt;
+              &lt;div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"&gt;&lt;a href="#" class="site-menu-toggle js-menu-toggle text-black"&gt;&lt;span class="icon-menu h3"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+        &lt;/header&gt;
+    &lt;/nav&gt;&lt;section&gt;&lt;h1&gt;SMap&lt;/h1&gt;&lt;div id="tipue_search_content"&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;/div&gt;</content><category term="misc"></category></entry><entry><title>cmsimde_site</title><link href="./cmsimde_site.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./cmsimde_site.html</id><summary type="html">
+&lt;div class="container"&gt;&lt;nav&gt;
+        
+    &lt;div class="site-wrap"&gt;
+
+    &lt;div class="site-mobile-menu"&gt;
+      &lt;div class="site-mobile-menu-header"&gt;
+        &lt;div class="site-mobile-menu-close mt-3"&gt;
+          &lt;span class="icon-close2 js-menu-toggle"&gt;&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="site-mobile-menu-body"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+            &lt;header class="site-navbar py-4 bg-white" role="banner"&gt;
+              &lt;div class="container"&gt;
+                &lt;div class="row align-items-center"&gt;
+                &lt;h1&gt;41132222&lt;/h1&gt;
+                &lt;div class="pl-4"&gt;
+                    &lt;form&gt;
+                    &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required&gt;
+                    &lt;/form&gt;
+                &lt;/div&gt;
+                  &lt;!-- &lt;div class="col-11 col-xl-2"&gt;
+                    &lt;h1 class="mb-0 site-logo"&gt;&lt;a href="index.html" class="text-black h2 mb-0"&gt;41132222&lt;/a&gt;&lt;/h1&gt; 
+                  &lt;/div&gt;
+                  --&gt;
+                  &lt;div class="col-12 col-md-10 d-none d-xl-block"&gt;
+                    &lt;nav class="site-navigation position-relative text-right" role="navigation"&gt;
+    &lt;ul class="site-menu js-clone-nav mr-auto d-none d-lg-block"&gt;
+                        &lt;li class="active has-children"&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;
+                        &lt;ul class="dropdown"&gt;
+                            &lt;li&gt;&lt;a href="sitemap.html"&gt;SMap&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="./../reveal/index.html"&gt;reveal&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;
+                        &lt;/ul&gt;
+                      &lt;/li&gt;
+                     &lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;
+                      &lt;/ul&gt;
+                &lt;/nav&gt;
+              &lt;/div&gt;
+              &lt;div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"&gt;&lt;a href="#" class="site-menu-toggle js-menu-toggle text-black"&gt;&lt;span class="icon-menu h3"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+        &lt;/header&gt;
+    &lt;div id="tipue_search_content"&gt; &lt;a href="cmsimde.html"&gt;Next&lt;/a&gt; &gt;&gt; cmsimde&lt;br /&gt;&lt;h1&gt;About&lt;/h1&gt;
+&lt;p&gt;網頁: 請填入目前網站所在的 URL, &lt;a href="https://mde.tw/cmsimde_site"&gt;https://mde.tw/cmsimde_site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網誌: 請填入目前網站所在的 URL/blog, &lt;a href="https://mde.tw/cmsimde_site/blog"&gt;https://mde.tw/cmsimde_site/blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;簡報 …&lt;/p&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;</summary><content type="html">
+&lt;div class="container"&gt;&lt;nav&gt;
+        
+    &lt;div class="site-wrap"&gt;
+
+    &lt;div class="site-mobile-menu"&gt;
+      &lt;div class="site-mobile-menu-header"&gt;
+        &lt;div class="site-mobile-menu-close mt-3"&gt;
+          &lt;span class="icon-close2 js-menu-toggle"&gt;&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="site-mobile-menu-body"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+            &lt;header class="site-navbar py-4 bg-white" role="banner"&gt;
+              &lt;div class="container"&gt;
+                &lt;div class="row align-items-center"&gt;
+                &lt;h1&gt;41132222&lt;/h1&gt;
+                &lt;div class="pl-4"&gt;
+                    &lt;form&gt;
+                    &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required&gt;
+                    &lt;/form&gt;
+                &lt;/div&gt;
+                  &lt;!-- &lt;div class="col-11 col-xl-2"&gt;
+                    &lt;h1 class="mb-0 site-logo"&gt;&lt;a href="index.html" class="text-black h2 mb-0"&gt;41132222&lt;/a&gt;&lt;/h1&gt; 
+                  &lt;/div&gt;
+                  --&gt;
+                  &lt;div class="col-12 col-md-10 d-none d-xl-block"&gt;
+                    &lt;nav class="site-navigation position-relative text-right" role="navigation"&gt;
+    &lt;ul class="site-menu js-clone-nav mr-auto d-none d-lg-block"&gt;
+                        &lt;li class="active has-children"&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;
+                        &lt;ul class="dropdown"&gt;
+                            &lt;li&gt;&lt;a href="sitemap.html"&gt;SMap&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="./../reveal/index.html"&gt;reveal&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;
+                        &lt;/ul&gt;
+                      &lt;/li&gt;
+                     &lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;
+                      &lt;/ul&gt;
+                &lt;/nav&gt;
+              &lt;/div&gt;
+              &lt;div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"&gt;&lt;a href="#" class="site-menu-toggle js-menu-toggle text-black"&gt;&lt;span class="icon-menu h3"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+        &lt;/header&gt;
+    &lt;div id="tipue_search_content"&gt; &lt;a href="cmsimde.html"&gt;Next&lt;/a&gt; &gt;&gt; cmsimde&lt;br /&gt;&lt;h1&gt;About&lt;/h1&gt;
+&lt;p&gt;網頁: 請填入目前網站所在的 URL, &lt;a href="https://mde.tw/cmsimde_site"&gt;https://mde.tw/cmsimde_site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網誌: 請填入目前網站所在的 URL/blog, &lt;a href="https://mde.tw/cmsimde_site/blog"&gt;https://mde.tw/cmsimde_site/blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;簡報: 請填入目前網站所在的 URL/reveal, &lt;a href="https://mde.tw/cmsimde_site/reveal"&gt;https://mde.tw/cmsimde_site/reveal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br /&gt; &lt;a href="cmsimde.html"&gt;Next&lt;/a&gt; &gt;&gt; cmsimde&lt;/div&gt;
 
     &lt;!-- footer --&gt;
       &lt;div class="container"&gt;
@@ -10607,54 +10654,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
   };
   &lt;/script&gt;
   &lt;script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"&gt;&lt;/script&gt;--&gt;
-    </content><category term="misc"></category></entry><entry><title>cmsimde_site</title><link href="./cmsimde_site.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./cmsimde_site.html</id><content type="html">
-&lt;div class="container"&gt;&lt;nav&gt;
-    &lt;div class="site-wrap"&gt;
-
-    &lt;div class="site-mobile-menu"&gt;
-      &lt;div class="site-mobile-menu-header"&gt;
-        &lt;div class="site-mobile-menu-close mt-3"&gt;
-          &lt;span class="icon-close2 js-menu-toggle"&gt;&lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class="site-mobile-menu-body"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-            &lt;header class="site-navbar py-4 bg-white" role="banner"&gt;
-              &lt;div class="container"&gt;
-                &lt;div class="row align-items-center"&gt;
-                &lt;h1&gt;41132222&lt;/h1&gt;
-                &lt;div class="pl-4"&gt;
-                    &lt;form&gt;
-                    &lt;input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required&gt;
-                    &lt;/form&gt;
-                &lt;/div&gt;
-                  &lt;!-- &lt;div class="col-11 col-xl-2"&gt;
-                    &lt;h1 class="mb-0 site-logo"&gt;&lt;a href="index.html" class="text-black h2 mb-0"&gt;41132222&lt;/a&gt;&lt;/h1&gt; 
-                  &lt;/div&gt;
-                  --&gt;
-                  &lt;div class="col-12 col-md-10 d-none d-xl-block"&gt;
-                    &lt;nav class="site-navigation position-relative text-right" role="navigation"&gt;
-    &lt;ul class="site-menu js-clone-nav mr-auto d-none d-lg-block"&gt;
-                        &lt;li class="active has-children"&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;
-                        &lt;ul class="dropdown"&gt;
-                            &lt;li&gt;&lt;a href="sitemap.html"&gt;SMap&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href="./../reveal/index.html"&gt;reveal&lt;/a&gt;&lt;/li&gt;
-                            &lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/li&gt;
-                     &lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;
-                      &lt;/ul&gt;
-                &lt;/nav&gt;
-              &lt;/div&gt;
-              &lt;div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"&gt;&lt;a href="#" class="site-menu-toggle js-menu-toggle text-black"&gt;&lt;span class="icon-menu h3"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-
-            &lt;/div&gt;
-          &lt;/div&gt;
-
-        &lt;/header&gt;
-    &lt;/nav&gt;&lt;section&gt;&lt;h1&gt;SMap&lt;/h1&gt;&lt;div id="tipue_search_content"&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="About.html"&gt;About&lt;/a&gt;&lt;li&gt;&lt;a href="cmsimde.html"&gt;cmsimde&lt;/a&gt;&lt;li&gt;&lt;a href="Replit.html"&gt;Replit&lt;/a&gt;&lt;li&gt;&lt;a href="Brython.html"&gt;Brython&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;/div&gt;</content><category term="misc"></category></entry><entry><title>cmsimde_site</title><link href="./cmsimde_site.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./cmsimde_site.html</id><summary type="html">
+    </content><category term="misc"></category></entry><entry><title>cmsimde_site</title><link href="./cmsimde_site.html" rel="alternate"></link><published>2024-04-09T12:09:28+08:00</published><updated>2024-04-09T12:09:28+08:00</updated><author><name>2b-midbg2</name></author><id>tag:None,2024-04-09:./cmsimde_site.html</id><summary type="html">
 &lt;div class="container"&gt;&lt;nav&gt;
         
     &lt;div class="site-wrap"&gt;
