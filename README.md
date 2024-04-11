@@ -1,4 +1,6 @@
 # cmsimde_site
+#2b_midbg2
+靜態網頁:https://mdecd2024.github.io/2b-midbg2/content/index.html
 
 利用 init_replit 指令安裝所需 Python 模組
 
