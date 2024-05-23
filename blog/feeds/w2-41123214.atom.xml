@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg2 - w2 41123214</title><link href="./" rel="alternate"></link><link href="./feeds/w2-41123214.atom.xml" rel="self"></link><id>./</id><updated>2024-05-21T15:12:31+08:00</updated><entry><title>2024/02/29 41123214</title><link href="./w2%201123214.html" rel="alternate"></link><published>2024-03-21T15:35:00+08:00</published><updated>2024-05-21T15:12:31+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w2 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;組長建立 Team 並設定分組倉儲&lt;/h1&gt;
-&lt;p&gt;因其分組倉儲擁有者為 mdecd2024, 因此無法從 Replit accoount 項下進行授權, 但是可以利用 ssh-keygen 建立 .ssh 目錄下的 id_rsa 與 id_rsa.pub, 之後除了將公鑰送到 Github 之外, 還需要在 .ssh 目錄中建立 config, 且將倉儲 .git/config 中的 https 協定改為 SSH. 範例: https://github.com/mdecd2024/test-ag1&lt;/p&gt;</content><category term="w2 41123214"></category><category term="網誌編寫 41123214"></category></entry></feed>
