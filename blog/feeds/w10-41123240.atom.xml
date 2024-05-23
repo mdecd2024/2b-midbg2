@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg2 - w10 41123240</title><link href="./" rel="alternate"></link><link href="./feeds/w10-41123240.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T06:40:41+08:00</updated><entry><title>41123240網誌-10</title><link href="./w10-41123240.html" rel="alternate"></link><published>2024-04-25T15:00:00+08:00</published><updated>2024-05-23T06:40:41+08:00</updated><author><name>41123240</name></author><id>tag:None,2024-04-25:./w10-41123240.html</id><summary type="html">&lt;p&gt;2024 Spring 第十週網址撰寫.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十週網址撰寫.&lt;/p&gt;
+
+
+&lt;h1&gt;第十週網誌&lt;/h1&gt;
+&lt;p&gt;這周下大雨也有很多同學沒到課但課堂進度還是要進行下去，這週新增了許多作業與訊息，例如replit可以用來維護分組倉儲這種消息在沒用codespaces的人也可以維護群組倉儲。&lt;/p&gt;
+&lt;h1&gt;W10協同資料處理&lt;/h1&gt;
+&lt;pre class="brush:python"&gt;
+from browser import window, ajax
+
+def fetch_csv_data():
+    url = "https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"
+
+    def on_complete(req):
+        if req.status == 200 or req.status == 0:
+            content = req.text
+            lines = content.split('\n')
+            for line in lines:
+                if line.strip() == "":
+                    continue
+                items = line.split(',')
+                if len(items) &gt;= 3:
+                    github_username_1 = items[1].strip()  # 第二個逗號後到第三個逗號前的數據
+                    team = items[2].strip()  # 第三個逗號後的數據
+                    team2 = items[2].strip()
+                    github_url_1 = f"個人倉儲:https://github.com/{github_username_1}/cd2024"
+                    team = f"分組倉儲:https://github.com/mdecd2024/2b-midbg{team}"
+                    team2 = f"分組網頁:https://mdecd2024.github.io/2b-midbg{team2}"
+                    csv_data = items[1].strip()  # 取得 CSV 中第三個逗號後的資料
+                    github_io_url = f"個人網頁:https://{csv_data}.github.io/cd2024/"  
+                    line_with_urls = f"{line.strip()},{github_url_1},{github_io_url},{team},{team2}"  # 以逗號分隔的資料串
+                    print(line_with_urls)
+        else:
+            print("Error:", req.text)
+
+    req = ajax.ajax()
+    req.bind('complete', on_complete)
+    req.open('GET', url, True)
+    req.set_header('content-type', 'application/x-www-form-urlencoded')
+    req.send()
+
+fetch_csv_data()
+&lt;/pre&gt;</content><category term="w10 41123240"></category><category term="網誌編寫 41123240"></category></entry></feed>
