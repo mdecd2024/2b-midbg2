@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg2 - w5 41123240</title><link href="./" rel="alternate"></link><link href="./feeds/w5-41123240.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T06:10:04+08:00</updated><entry><title>41123240網誌-5</title><link href="./w5-41123240.html" rel="alternate"></link><published>2024-03-21T15:00:00+08:00</published><updated>2024-05-23T06:10:04+08:00</updated><author><name>41123240</name></author><id>tag:None,2024-03-21:./w5-41123240.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週網址撰寫.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第五週網址撰寫.&lt;/p&gt;
+
+
+&lt;h1&gt;第五週網誌&lt;/h1&gt;
+&lt;p&gt;這週要統整各組員的網誌進入群組倉儲，並且幫影片上字幕，大部分得同學在個人網誌的更改上都有不少問題，例如很多標題都不能相同，一個相同可能就上傳不了，會被其他東西覆蓋，在處理這些問題就花了不少時間，而且每週REPLIT都有改動，非常複雜。&lt;/p&gt;
+&lt;h2&gt;影片&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Yv3NHqIMfBg?si=CxZyojD-lTvFwfJV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_YEH3mj_yoM?si=hKp89FxmspVMrJrp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;逐字稿&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/41123240/cd2024/files/14785379/default.txt"&gt;逐字稿-5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/41123240/cd2024/files/14785380/default.txt"&gt;逐字稿-6&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;這兩部影片在描述使用github建立群組倉儲的過程，並且適用可攜程式來維護我們的倉儲，這樣可以提供良好的隔離性和安全性，從而保護我們的開發環境不受外部干擾，也可以確保各個組員都可以對倉儲進行維護與更新，使分工更加明確。&lt;/p&gt;</content><category term="w5 41123240"></category><category term="網誌編寫 41123240"></category></entry></feed>

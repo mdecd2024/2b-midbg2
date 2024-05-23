@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg2 - w3 41123214</title><link href="./" rel="alternate"></link><link href="./feeds/w3-41123214.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T06:10:04+08:00</updated><entry><title>2024/03/07 41123214</title><link href="./w3%201123214.html" rel="alternate"></link><published>2024-03-07T15:35:00+08:00</published><updated>2024-05-23T06:10:04+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-07:./w3 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;將組員的個人倉儲設為分組倉儲子模組&lt;/h1&gt;
+&lt;p&gt;指令:git submodule add 組員的個人倉儲網址 組員的學號 如:git submodule add https://github.com/S41123216/cd2024.git 41123216 如此一來 Github 帳號為 S41123216 的組員, 其個人倉儲就會設定為分組倉儲的子模組, 而且是以其學號命名此一子模組的目錄名稱. 好處是: 各組員可以自行管理個人的課程倉儲與網站, 也就是位於其 Github 帳號下的 cd2024, 並且自行決定要整合到分組倉儲與網站的版本. 也能將自己在課程網站的資料, 直接用連結導入分組網站, 無需額外將資料搬進分組倉儲.&lt;/p&gt;</content><category term="w3 41123214"></category><category term="網誌編寫 41123214"></category></entry></feed>
