@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg2 - w14 41123214</title><link href="./" rel="alternate"></link><link href="./feeds/w14-41123214.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T14:00:27+08:00</updated><entry><title>2024/05/23 41123214</title><link href="./w14%2041123214.html" rel="alternate"></link><published>2024-05-23T14:31:00+08:00</published><updated>2024-06-19T14:00:27+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-23:./w14 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;cd2023 足球機器人網際場景模擬&lt;/h1&gt;
+&lt;p&gt;執行步驟:&lt;/p&gt;
+&lt;p&gt;1.在可攜程式系統安裝所需的 Python 模組: pip install pyzmq cbor keyboard&lt;/p&gt;
+&lt;p&gt;2.在近端電腦上取下倉儲內容: git clone &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.球場、球員、數位計分器與類比計分器場景, 以及機器人球員控制程式位於: 2a3-pj3ag4\downloads\zmq_football 目錄&lt;/p&gt;
+&lt;p&gt;4.利用 &lt;a href="CoppeliaSim 4.5.1 rev1 for IPv6.7z"&gt; CoppeliaSim 4.5.1 rev1 for IPv6.7z &lt;/a&gt; 開啟 zmq_football 目錄中的 site.ttt&lt;/p&gt;
+&lt;p&gt;5.利用可攜程式系統中的 SciTE 編輯器開啟 zmq_football 目錄中的 judge.py, 按下 Tools - Go 之後, CoppeliaSim 中的足球場景將開始進行模擬, 足球從球場正中央拋下, 兩隊球員完成列隊, 準備接受遠端 ZMQ RemoteAPI Python 程式操控, 以便進行球賽競技.&lt;/p&gt;
+&lt;p&gt;6.各球員操控程式可跨 IPv4 與 IPv6 網路對場景中的機器人球員進行控制, 球場即時畫面可由 http://球場所在電腦_IP_位址或符號名稱:23020 擷取, 球場與控制端的防火牆必須允許雙方 ZMQ 網路封包通過 port 23000 與 23020, 其中 23000 用於 Python 程式控制, 而 23020 則用於網際 Visualization Stream 影像串流用.&lt;/p&gt;
+&lt;p&gt;7.各球員控制端, 分別在各自電腦以可攜程式系統中的 SciTE 編輯器開啟 zmq_football 目錄中的 player.py, 並依據球員編號進行動作操控.&lt;/p&gt;
+&lt;p&gt;8.鍵盤中的 a 鍵控制球員向左轉, d 鍵控制球員向右轉, w 向前移動, s 向後移動, space 鍵翻身, 按下 shift 鍵將加速並轉向, 按下 q 鍵則終止模擬.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Md_c9sZUH1s?si=lg2KeJPXSOhuVULv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;雖然操作上很難控制/分數會跳，但整體來說還蠻有趣的。&lt;/p&gt;</content><category term="w14 41123214"></category><category term="網誌編寫 41123214"></category></entry></feed>
