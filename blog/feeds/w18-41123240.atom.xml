@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg2 - w18 41123240</title><link href="./" rel="alternate"></link><link href="./feeds/w18-41123240.atom.xml" rel="self"></link><id>./</id><updated>2024-06-22T09:55:54+08:00</updated><entry><title>41123240網誌-18</title><link href="./w18-41123240.html" rel="alternate"></link><published>2024-06-20T15:00:00+08:00</published><updated>2024-06-22T09:55:54+08:00</updated><author><name>41123240</name></author><id>tag:None,2024-06-20:./w18-41123240.html</id><summary type="html">&lt;p&gt;2024 Spring 第十八週網址撰寫.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十八週網址撰寫.&lt;/p&gt;
+
+
+&lt;h1&gt;第十八週網誌&lt;/h1&gt;
+&lt;h2&gt;繪製機器人影片&lt;/h2&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gQU3MbBJ_EU?si=cB9ZyjgfDNMWjh21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;組裝機器人影片&lt;/h2&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/t98OFHO6aFE?si=nm8DsjiLFLW2PeDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Coppliasim實體模擬影片&lt;/h2&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3XAOAm7eFkM?si=CNoc8iUWv2Tvrn7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;在這次的期末報告中我繪製了零件，並組裝起來在最後放入coppliasim，與老師給予的籃球場、記分板、計時器等等模組，並進行模擬，導入在w17做的程式碼，似乎是因為質量的問題，coppliasim出現紅字，機器人始終在旋轉，無法正確的撞擊球體得分。&lt;/p&gt;</content><category term="w18 41123240"></category><category term="網誌編寫 41123240"></category></entry></feed>
